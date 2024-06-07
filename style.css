@@ -363,7 +363,7 @@ nav {
     flex-direction: column;
     /* width: 100vw; */
     height: 60vh;
-    background-image: url("footer-cta-bg.jpg");
+    /* background-image: url("footer-cta-bg.jpg"); */
     /* text-align: center; */
     justify-content: start;
     align-items: center;
