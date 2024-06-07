@@ -362,8 +362,8 @@ nav {
     display: flex;
     flex-direction: column;
     /* width: 100vw; */
-    height: 60vh;
-    /* background-image: url("footer-cta-bg.jpg"); */
+    height: 60%;
+    background-image: url("footer-cta-bg.jpg");
     /* text-align: center; */
     justify-content: start;
     align-items: center;
@@ -402,7 +402,7 @@ nav {
     height: 20%;
     justify-content: center;
     align-items: center;
-    font-size: 50px;
+    font-size: 30px;
     font-family: 'Times New Roman', Times, serif;
     padding-bottom: 5%;
 }
